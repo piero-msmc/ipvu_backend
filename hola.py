@@ -6,3 +6,4 @@ num=int(input("ingrese un numero entero papaa"))
 print("su numero es ", num) 
 
 print("god daayum")
+soy mujer xd
